@@ -1,5 +1,13 @@
 # google translate package
 
+## how to install cmd
+* `gogt`
+* `gogt-fzf`
+
+```
+go get -u github.com/umaumax/gogt/...
+```
+
 ## memo
 * without vq cache 0.5[sec]
 * with vq cache 0.05[sec]
